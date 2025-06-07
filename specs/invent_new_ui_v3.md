@@ -46,7 +46,7 @@ Create a **uniquely themed UI component** that combines multiple existing UI ele
 ## Design Dimensions
 
 ### **Unique Theme Development**
-Each component must embody a distinctive design language that creates personality and memorable experience:
+Each component must embody a distinctive design language that creates personality and memorable experience. Here are example themes to consider - don't limit yourself to these, use your imagination to create new unique themes:
 
 #### **Theme Categories**
 - **Organic Nature**: Plant growth, water flow, seasonal changes, natural textures
@@ -68,7 +68,7 @@ Each component must embody a distinctive design language that creates personalit
 - **Micro-Details**: Small touches that strengthen the thematic experience
 
 ### **Hybrid Component Strategy**
-Combine 2-4 existing UI components into one powerful, multi-functional interface:
+Combine 2-4 existing UI components into one powerful, multi-functional interface. Don't limit yourself to the examples below, use your imagination to create new unique combinations:
 
 #### **Smart Combinations**
 - **Search Hub**: Search bar + autocomplete + recent items + filters + results preview
