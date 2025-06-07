@@ -1,6 +1,6 @@
 # Infinite Agentic Loop POC
 
-An experimental project demonstrating infinite agentic loop in a two prompt system using Claude Code.
+An experimental project demonstrating Infinite Agentic Loop in a two prompt system using Claude Code.
 
 ## Overview
 
@@ -67,3 +67,15 @@ Continuous generation in waves until context limits are reached, with progressiv
 - Specification files in markdown format in `specs/`
 
 This experimental approach demonstrates advanced AI coordination patterns for scalable content generation.
+
+## Directions you can take to enhance this pattern
+
+- Apply this to a use case of your choice.
+- Build an MCP Server that enables reuse of the infinite agentic loop.
+- Get the `.claude/commands/infinite.md` into your `~/.claude/commands/` directory for global use.
+- Update `.claude/commands/infinite.md` to generate sets of files instead of a single file.
+
+## Master AI Coding 
+Learn to code with AI with foundational [Principles of AI Coding](https://agenticengineer.com/principled-ai-coding?y=infageloop)
+
+Follow the [IndyDevDan youtube channel](https://www.youtube.com/@indydevdan) for more AI coding tips and tricks.
