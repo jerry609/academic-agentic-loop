@@ -53,21 +53,6 @@ Continuous generation in waves until context limits are reached, with progressiv
 4. **Quality Assurance**: Ensures each iteration is unique and spec-compliant
 5. **Wave Management**: For infinite mode, manages successive waves of agents
 
-## File Structure
-
-- `ai_docs/` - Claude Code documentation
-- `specs/` - Markdown specification files defining generation requirements
-- `.claude/commands/infinite.md` - The custom slash command implementation
-- `.claude/commands/prime.md` - Setup claude code for the project
-
-## Requirements
-
-- Claude Code
-- Project with `.claude/commands/` directory structure
-- Specification files in markdown format in `specs/`
-
-This experimental approach demonstrates advanced AI coordination patterns for scalable content generation.
-
 ## Directions you can take to enhance this pattern
 
 - Apply this to a use case of your choice.
@@ -79,3 +64,5 @@ This experimental approach demonstrates advanced AI coordination patterns for sc
 Learn to code with AI with foundational [Principles of AI Coding](https://agenticengineer.com/principled-ai-coding?y=infageloop)
 
 Follow the [IndyDevDan youtube channel](https://www.youtube.com/@indydevdan) for more AI coding tips and tricks.
+
+Use the best Agentic Coding tool: [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview)
