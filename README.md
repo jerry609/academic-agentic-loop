@@ -1,6 +1,10 @@
 # Infinite Agentic Loop POC
 
+> **Watch the Tutorial**: [Infinite Agentic Loop with Claude Code](https://youtu.be/9ipM_vDwflI)
+
 An experimental project demonstrating Infinite Agentic Loop in a two prompt system using Claude Code.
+
+<img src="images/infinite-claude-img.png" alt="Infinite Agentic Loop" style="max-width: 800px; width: 100%;">
 
 ## Overview
 
