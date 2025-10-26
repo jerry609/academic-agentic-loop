@@ -284,13 +284,42 @@ cat test/research_1.md
 
 ---
 
-## 🚧 未来增强计划
+## 🛠️ 高级工具套件（NEW!）
 
-- [ ] 集成 arXiv API 进行真实文献检索
-- [ ] 添加原创性评分算法
-- [ ] 实现代理间协作模式
-- [ ] 支持 LaTeX 输出格式
-- [ ] 构建研究演化可视化
+项目现已包含 5 个强大的工具来增强研究能力：
+
+### 1. 📚 arXiv 文献检索
+```bash
+python tools/arxiv_search.py "attention mechanism" 10
+```
+实时搜索相关论文，获取最新研究动态。
+
+### 2. 🎯 原创性评分器
+```bash
+python tools/novelty_scorer.py research_1.md research_output/
+```
+自动评估研究提案的创新性（0-100分）。
+
+### 3. 📝 LaTeX 转换器
+```bash
+python tools/latex_converter.py research_1.md paper.tex
+pdflatex paper.tex
+```
+将 Markdown 提案转换为可发表的 LaTeX 文档。
+
+### 4. 📊 研究演化可视化
+```bash
+python tools/research_visualizer.py research_output/ report.md
+```
+生成维度分布图和演化轨迹分析。
+
+### 5. 🤝 代理协作模式（Claude Code 内）
+```bash
+/research_collaborative seed_papers/paper.md collab 5 critique
+```
+让 AI 代理相互评审、优化和综合研究提案。
+
+**详细文档:** [ADVANCED_TOOLS_GUIDE.md](ADVANCED_TOOLS_GUIDE.md) | [TOOLS_REFERENCE.md](TOOLS_REFERENCE.md)
 
 ---
 
